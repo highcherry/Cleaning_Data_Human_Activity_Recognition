@@ -4,7 +4,7 @@
   Cleaning Data: This repository contains R code for analyzing the UCI Human Activity Recognition Dataset from cell phone sensors.
 
 ##  Repository Structure
-├── run_analysis.R
+├── run_analysis.R                                                                          
 │   ├── Step 0: Load all data files 
 │   ├── Step 1: Merges the training and the test sets to create one data set.
 │   ├── Step 2: Extracts only the measurements on the mean and standard deviation for each measurement. 
