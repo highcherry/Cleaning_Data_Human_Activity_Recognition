@@ -5,6 +5,3 @@
 |-----------|----------|------------------------------------------|---------------------|
 | `subject` | integer  | participant identifier                   | 1-30                |
 | `activity`| factor   | Activity name performed                  | 6 labels|
-
-## 📊 Feature Variables
-### Naming Convention
